@@ -1,0 +1,49 @@
+html{
+    background: linear-gradient(45deg, rgb(23, 161, 196), pink);
+}
+header{
+    text-align: center;
+    display: inline-block;
+    margin: 50px 715px;
+    background-color: white;
+    border: 2px;
+    border-radius: 3px;
+    box-shadow: 5px 5px;
+}
+p{
+    text-align: center;
+    display: inline-block;
+    margin: 130px 300px;
+    padding: auto;
+    background-color: white;
+    border: 2px;
+    border-radius: 3px;
+    box-shadow: 5px 5px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 0px rgb(68, 66, 66);
+}
+a{
+    display: inline-block;
+    margin: 40px 720px;
+    padding: 4px 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+footer{
+    text-align: center;
+    display: inline-block;
+    margin: 50px 600px;
+    background-color: white;
+    border: 2px;
+    border-radius: 3px;
+    box-shadow: 5px 5px;
+}
+header, p, footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
